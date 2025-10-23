@@ -1,4 +1,4 @@
-[gd_scene load_steps=11 format=4 uid="uid://brfbnkwevs4f6"]
+[gd_scene load_steps=12 format=4 uid="uid://brfbnkwevs4f6"]
 
 [ext_resource type="TileSet" uid="uid://07fq3rspk8ia" path="res://scenes/tileset.tres" id="1_vxiiw"]
 [ext_resource type="Texture2D" uid="uid://b8v3udfrkvvw8" path="res://scenes/quests/story_quests/my_team_story_quest/0_intro/intro_components/my_team_story_quest_intro_image.png" id="2_tau8u"]
@@ -6,6 +6,7 @@
 [ext_resource type="Script" uid="uid://x1mxt6bmei2o" path="res://scenes/ui_elements/cinematic/cinematic.gd" id="4_4fk3g"]
 [ext_resource type="Resource" uid="uid://b2ehx23ui5lj8" path="res://scenes/quests/story_quests/my_team_story_quest/0_intro/intro_components/my_team_story_quest_intro.dialogue" id="5_cwx23"]
 [ext_resource type="PackedScene" uid="uid://v3usqiwy5wpr" path="res://scenes/game_elements/props/decoration/rock/rock.tscn" id="6_nhx73"]
+[ext_resource type="SpriteFrames" uid="uid://cuokvpf58hkee" path="res://scenes/game_elements/props/tree/components/tree_spriteframes_purple.tres" id="7_tau8u"]
 
 [sub_resource type="Animation" id="Animation_d7nff"]
 length = 0.001
@@ -151,3 +152,7 @@ metadata/_custom_type_script = "uid://x1mxt6bmei2o"
 
 [node name="Rock" parent="." instance=ExtResource("6_nhx73")]
 position = Vector2(125, 403)
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+position = Vector2(165, 301)
+sprite_frames = ExtResource("7_tau8u")
