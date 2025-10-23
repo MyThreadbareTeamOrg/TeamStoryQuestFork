@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://btlbwrwjkpee2"
+path="res://.godot/imported/my_team_story_quest_combat.dialogue-c8750a0a3d8262f6808cb7a6f3f60ca2.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/my_team_story_quest/2_combat/combat_components/my_team_story_quest_combat.dialogue"
+dest_files=["res://.godot/imported/my_team_story_quest_combat.dialogue-c8750a0a3d8262f6808cb7a6f3f60ca2.tres"]
+
+[params]
+
+defaults=true

@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://dwlfldlyhixle"
+path="res://.godot/imported/my_team_story_quest_outro.dialogue-9fadc8774d2f77f1e120a628602b694f.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/my_team_story_quest/4_outro/outro_components/my_team_story_quest_outro.dialogue"
+dest_files=["res://.godot/imported/my_team_story_quest_outro.dialogue-9fadc8774d2f77f1e120a628602b694f.tres"]
+
+[params]
+
+defaults=true
