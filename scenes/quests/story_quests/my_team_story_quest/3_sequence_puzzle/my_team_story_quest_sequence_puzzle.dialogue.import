@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://iayg4p5cc7ln"
+path="res://.godot/imported/my_team_story_quest_sequence_puzzle.dialogue-ca7293f11490a10980fc16cc49a89caf.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/my_team_story_quest/3_sequence_puzzle/my_team_story_quest_sequence_puzzle.dialogue"
+dest_files=["res://.godot/imported/my_team_story_quest_sequence_puzzle.dialogue-ca7293f11490a10980fc16cc49a89caf.tres"]
+
+[params]
+
+defaults=true

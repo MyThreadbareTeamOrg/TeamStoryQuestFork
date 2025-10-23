@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://o1pp7nk41qjm"
+path="res://.godot/imported/my_team_story_quest_checkpoint.dialogue-d294b241e1ac55d96281963fcf1300bf.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/my_team_story_quest/1_stealth/stealth_components/my_team_story_quest_checkpoint.dialogue"
+dest_files=["res://.godot/imported/my_team_story_quest_checkpoint.dialogue-d294b241e1ac55d96281963fcf1300bf.tres"]
+
+[params]
+
+defaults=true

@@ -1,0 +1,18 @@
+[gd_resource type="SpriteFrames" load_steps=3 format=3 uid="uid://c2kt1mbocyr7t"]
+
+[ext_resource type="Texture2D" uid="uid://qtu85deuqsbj" path="res://scenes/quests/story_quests/my_team_story_quest/2_combat/combat_components/my_team_story_quest_projectile.png" id="1_f6nqi"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_a6ony"]
+atlas = ExtResource("1_f6nqi")
+region = Rect2(0, 0, 64, 64)
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_a6ony")
+}],
+"loop": true,
+"name": &"default",
+"speed": 10.0
+}]

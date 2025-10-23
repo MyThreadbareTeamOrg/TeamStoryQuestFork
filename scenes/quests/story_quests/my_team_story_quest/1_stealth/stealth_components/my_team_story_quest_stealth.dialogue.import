@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://vhbl4guswoiq"
+path="res://.godot/imported/my_team_story_quest_stealth.dialogue-6f6fc87e9cdca308326d2933bdce9948.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/my_team_story_quest/1_stealth/stealth_components/my_team_story_quest_stealth.dialogue"
+dest_files=["res://.godot/imported/my_team_story_quest_stealth.dialogue-6f6fc87e9cdca308326d2933bdce9948.tres"]
+
+[params]
+
+defaults=true

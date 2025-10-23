@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://b2ehx23ui5lj8"
+path="res://.godot/imported/my_team_story_quest_intro.dialogue-ac63ea5c9b9f6ad748aac6a231cfd8bc.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/my_team_story_quest/0_intro/intro_components/my_team_story_quest_intro.dialogue"
+dest_files=["res://.godot/imported/my_team_story_quest_intro.dialogue-ac63ea5c9b9f6ad748aac6a231cfd8bc.tres"]
+
+[params]
+
+defaults=true
